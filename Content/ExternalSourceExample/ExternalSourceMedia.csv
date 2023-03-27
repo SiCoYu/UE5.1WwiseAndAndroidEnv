@@ -1,0 +1,7 @@
+Name,ExternalSourceMediaInfoId,MediaName,CodecID,bIsStreamed,bUseDeviceMemory,MemoryAlignment,PrefetchSize
+1,1,"01.wem",2,false,false,0,0
+2,2,"02.wem",2,false,false,0,0
+3,3,"03.wem",2,false,false,0,0
+4,4,"04.wem",2,true,false,0,0
+5,5,"05.wem",2,true,false,0,0
+6,6,"06.wem",2,false,false,0,0
